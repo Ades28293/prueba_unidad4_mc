@@ -46,7 +46,7 @@ public class VentaServiceImpl implements IVentaService {
 		vent.setFecha(LocalDateTime.now());
 		vent.setNumero(numeroVenta);
 
-		// VENT FALTA DETALLES Y Valortotal
+		
 
 		for (ProductoTO codigoProd : producto) {
 

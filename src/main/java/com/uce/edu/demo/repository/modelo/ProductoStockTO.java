@@ -50,11 +50,7 @@ public class ProductoStockTO {
 		this.stock = stock;
 	}
 
-	@Override
-	public String toString() {
-		return "ProductoStockTO [codigoBarras=" + codigoBarras + ", categoria=" + categoria + ", nombre=" + nombre
-				+ ", stock=" + stock + "]";
-	}
+	
 	
 	
 	

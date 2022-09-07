@@ -32,10 +32,7 @@ public class ProductoTO {
 		this.cantidad = stock;
 	}
 
-	@Override
-	public String toString() {
-		return "ProductoTO [codigoBarras=" + codigoBarras + ", cantidad=" + cantidad + "]";
-	}
+	
 
 	
 	
